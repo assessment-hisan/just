@@ -1,35 +1,29 @@
 "use client"
 import React, { useState } from "react";
-import IndProRegSection from "./program-reg-secions/IndProRegSection";
-import GrpProRegSection from "./program-reg-secions/GrpProRegSection";
 import SearchDropdown from "./searchBar/SearchDropdown";
 
-
-function FilterSection({ programs, contestants }) {
+function FilterSection({ programs, onProgramSelect }) {
   const [searchTerm, setSearchTerm] = useState("");
   const [section, setSection] = useState("");
   const [category, setCategory] = useState("");
   const [type, setType] = useState("");
-  const [selectedProgram, setSelectedProgram] = useState(null); // Store selected program
-  const [showDropdown, setShowDropdown] = useState(false);
 
   // Filter programs based on dropdown selection and search term
   const filteredPrograms = programs.filter((program) => {
     return (
       (section === "" || program.section === section) &&
       (category === "" || program.category === category) &&
-      (type === "" || (type === "stage" ? program.stage : !program.stage)) &&
+      (type === "" || (type === program.stage)) &&
       program.program_name.toLowerCase().includes(searchTerm.toLowerCase())
     );
   });
 
   const handleProgramClick = (program) => {
-    setSelectedProgram(program); // Set selected program data
-    setShowDropdown(false); // Hide dropdown after selection
+    onProgramSelect(program); // Notify parent about selected program
   };
 
   return (
-    <div className="flex flex-col items-center bg-slate-100 pb-40">
+    <div className="flex flex-col items-center bg-slate-100">
       <div className="bg-slate-50 shadow-lg rounded-lg p-8 max-w-xl w-full">
         <h2 className="text-2xl font-semibold mb-4 text-gray-700">Filter and Search Programs</h2>
 
@@ -70,22 +64,13 @@ function FilterSection({ programs, contestants }) {
         </div>
 
         {/* Search Input */}
-          <SearchDropdown
-           options={programs}
-           onSelect={(program) => handleProgramClick(program)}
-           searchProperties={["program_name", "section"]}
-           displayProperty="program_name"
-         />
+        <SearchDropdown
+          options={filteredPrograms}
+          onSelect={handleProgramClick}
+          searchProperties={["program_name", "section"]}
+          displayProperty="program_name"
+        />
       </div>
-
-      {/* Selected Program Section */}
-      {selectedProgram && (
-        selectedProgram.category === "individual" ? (
-          <IndProRegSection selectedProgram={selectedProgram} contestants={contestants} />
-        ) : (
-          <GrpProRegSection selectedProgram={selectedProgram} contestants={contestants} />
-        )
-      )}
     </div>
   );
 }

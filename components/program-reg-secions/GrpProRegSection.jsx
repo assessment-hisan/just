@@ -77,7 +77,7 @@ const GrpProRegSection = ({ selectedProgram, contestants }) => {
   };
 
   return (
-    <div className="bg-white shadow-lg rounded-lg p-8 max-w-3xl w-full mt-6">
+    <div className="bg-white shadow-lg rounded-lg max-w-3xl w-full p-10 mt-8">
       <h2 className="text-2xl font-semibold mb-4 text-gray-700">{program_name}</h2>
 
       {/* Toggle Button for Groups */}
