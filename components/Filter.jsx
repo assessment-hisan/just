@@ -19,9 +19,9 @@ function Filter({ programs, onProgramSelect }) {
   };
 
   return (
-    <div className="flex flex-col items-center bg-slate-100">
-      <div className="bg-slate-50 shadow-lg rounded-lg p-8 max-w-xl w-full">
-        <h2 className="text-2xl font-semibold mb-4 text-gray-700">Filter and Search Programs</h2>
+    <div className="flex flex-col items-center">
+      <div className="bg-white shadow-lg rounded-lg p-8 max-w-xl w-full border-1 border-slate-600">
+        <h2 className="text-2xl font-semibold mb-4 text-gray-800">Search Programs</h2>
 
         {/* Filters */}
         <div className="flex flex-col gap-2 mb-4">

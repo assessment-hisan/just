@@ -9,36 +9,9 @@ const mockData = [
     section: "Aliya",
     stage: false,
     results: [
-      {
-        position: 1,
-        grade: "B",
-        contestant_name: "Fayas",
-        team: "Ramallah",
-      },
-      {
-        position: 2,
-        grade: "A",
-        contestant_name: "Ameer",
-        team: "Jerusalem",
-      },
-      {
-        position: 3,
-        grade: "C",
-        contestant_name: "Sara",
-        team: "Bethlehem",
-      },
-      {
-        position: 2,
-        grade: "A",
-        contestant_name: "Ameer",
-        team: "Jerusalem",
-      },
-      {
-        position: 3,
-        grade: "C",
-        contestant_name: "Sara",
-        team: "Bethlehem",
-      },
+      { position: 1, grade: "B", contestant_name: "Fayas", team: "Ramallah" },
+      { position: 2, grade: "A", contestant_name: "Ameer", team: "Jerusalem" },
+      { position: 3, grade: "C", contestant_name: "Sara", team: "Bethlehem" },
     ],
   },
   {
@@ -46,165 +19,93 @@ const mockData = [
     section: "Ula",
     stage: true,
     results: [
-      {
-        position: 1,
-        grade: "A",
-        contestant_name: "John",
-        team: "Nazareth",
-      },
+      { position: 1, grade: "A", contestant_name: "John", team: "Nazareth" },
+      { position: 2, grade: "B", contestant_name: "Ali", team: "Ramallah" },
+      { position: 3, grade: "A", contestant_name: "Sam", team: "Jerusalem" },
     ],
   },
   {
-    program_name: "Content Writing",
+    program_name: "Quiz Competition",
+    section: "Thaniya",
+    stage: true,
+    results: [
+      { position: 1, grade: "A", contestant_name: "Abeer", team: "Bethlehem" },
+      { position: 2, grade: "A", contestant_name: "Amal", team: "Jerusalem" },
+      { position: 3, grade: "B", contestant_name: "Zara", team: "Nazareth" },
+    ],
+  },
+  {
+    program_name: "Debate",
+    section: "Thanaviya",
+    stage: true,
+    results: [
+      { position: 1, grade: "A", contestant_name: "Lina", team: "Ramallah" },
+      { position: 2, grade: "B", contestant_name: "Kamal", team: "Bethlehem" },
+      { position: 3, grade: "A", contestant_name: "Farah", team: "Nazareth" },
+    ],
+  },
+  {
+    program_name: "Poetry Recitation",
+    section: "Khulliya",
+    stage: true,
+    results: [
+      { position: 1, grade: "B", contestant_name: "Fahad", team: "Jerusalem" },
+      { position: 2, grade: "A", contestant_name: "Saad", team: "Ramallah" },
+      { position: 3, grade: "B", contestant_name: "Yara", team: "Nazareth" },
+    ],
+  },
+  {
+    program_name: "Drama",
     section: "Aliya",
+    stage: true,
+    results: [
+      { position: 1, grade: "A", contestant_name: "Amira", team: "Bethlehem" },
+      { position: 2, grade: "B", contestant_name: "Layla", team: "Ramallah" },
+      { position: 3, grade: "A", contestant_name: "Karim", team: "Jerusalem" },
+    ],
+  },
+  {
+    program_name: "Photography",
+    section: "Ula",
     stage: false,
     results: [
-      {
-        position: 1,
-        grade: "B",
-        contestant_name: "Fayas",
-        team: "Ramallah",
-      },
-      {
-        position: 2,
-        grade: "A",
-        contestant_name: "Ameer",
-        team: "Jerusalem",
-      },
-      {
-        position: 3,
-        grade: "C",
-        contestant_name: "Sara",
-        team: "Bethlehem",
-      },
-      {
-        position: 2,
-        grade: "A",
-        contestant_name: "Ameer",
-        team: "Jerusalem",
-      },
-      {
-        position: 3,
-        grade: "C",
-        contestant_name: "Sara",
-        team: "Bethlehem",
-      },
+      { position: 1, grade: "A", contestant_name: "Noor", team: "Nazareth" },
+      { position: 2, grade: "B", contestant_name: "Bilal", team: "Ramallah" },
+      { position: 3, grade: "A", contestant_name: "Mira", team: "Bethlehem" },
     ],
   },
   {
-    program_name: "Solo Singing",
-    section: "Ula",
-    stage: true,
-    results: [
-      {
-        position: 1,
-        grade: "A",
-        contestant_name: "John",
-        team: "Nazareth",
-      },
-    ],
-  },
-  {
-    program_name: "Content Writing",
-    section: "Aliya",
+    program_name: "Calligraphy",
+    section: "Thaniya",
     stage: false,
     results: [
-      {
-        position: 1,
-        grade: "B",
-        contestant_name: "Fayas",
-        team: "Ramallah",
-      },
-      {
-        position: 2,
-        grade: "A",
-        contestant_name: "Ameer",
-        team: "Jerusalem",
-      },
-      {
-        position: 3,
-        grade: "C",
-        contestant_name: "Sara",
-        team: "Bethlehem",
-      },
-      {
-        position: 2,
-        grade: "A",
-        contestant_name: "Ameer",
-        team: "Jerusalem",
-      },
-      {
-        position: 3,
-        grade: "C",
-        contestant_name: "Sara",
-        team: "Bethlehem",
-      },
+      { position: 1, grade: "B", contestant_name: "Zain", team: "Jerusalem" },
+      { position: 2, grade: "A", contestant_name: "Mariam", team: "Bethlehem" },
+      { position: 3, grade: "B", contestant_name: "Hana", team: "Ramallah" },
     ],
   },
   {
-    program_name: "Solo Singing",
-    section: "Ula",
+    program_name: "Group Dance",
+    section: "Thanaviya",
     stage: true,
     results: [
-      {
-        position: 1,
-        grade: "A",
-        contestant_name: "John",
-        team: "Nazareth",
-      },
+      { position: 1, grade: "A", contestant_name: "Rahim", team: "Nazareth" },
+      { position: 2, grade: "B", contestant_name: "Hiba", team: "Jerusalem" },
+      { position: 3, grade: "A", contestant_name: "Leena", team: "Ramallah" },
     ],
   },
   {
-    program_name: "Content Writing",
-    section: "Aliya",
-    stage: false,
-    results: [
-      {
-        position: 1,
-        grade: "B",
-        contestant_name: "Fayas",
-        team: "Ramallah",
-      },
-      {
-        position: 2,
-        grade: "A",
-        contestant_name: "Ameer",
-        team: "Jerusalem",
-      },
-      {
-        position: 3,
-        grade: "C",
-        contestant_name: "Sara",
-        team: "Bethlehem",
-      },
-      {
-        position: 2,
-        grade: "A",
-        contestant_name: "Ameer",
-        team: "Jerusalem",
-      },
-      {
-        position: 3,
-        grade: "C",
-        contestant_name: "Sara",
-        team: "Bethlehem",
-      },
-    ],
-  },
-  {
-    program_name: "Solo Singing",
-    section: "Ula",
+    program_name: "Public Speaking",
+    section: "Khulliya",
     stage: true,
     results: [
-      {
-        position: 1,
-        grade: "A",
-        contestant_name: "John",
-        team: "Nazareth",
-      },
+      { position: 1, grade: "A", contestant_name: "Omar", team: "Bethlehem" },
+      { position: 2, grade: "B", contestant_name: "Yousef", team: "Jerusalem" },
+      { position: 3, grade: "A", contestant_name: "Sarah", team: "Ramallah" },
     ],
   },
 ];
+
 
 // Team colors
 const teamColors = {
@@ -255,8 +156,8 @@ const Page = () => {
             }}
           >
             <div className="flex gap-3">
-            <h3 className="font-bold text-gray-700">{program.program_name}</h3>
-            <h5 className="text-gray-500">{program.section}</h5>
+            <h3 className="font-bold text-gray-800">{program.program_name}</h3>
+            <h5 className="text-gray-600">{program.section}</h5>
             </div>
 
             {/* Detailed view when expanded */}
@@ -265,7 +166,7 @@ const Page = () => {
                 {program.results.map((result, resultIndex) => (
                   <div
                     key={resultIndex}
-                    className="bg-slate-50 rounded-lg p-4 shadow-md mb-4"
+                    className="bg-slate-200 rounded-lg p-4 shadow-md mb-4"
                   >
                     {/* Team color div */}
                     <div
@@ -279,10 +180,22 @@ const Page = () => {
                       <p className="text-gray-700 font-semibold">
                         {result.contestant_name}
                       </p>
+                      <div className="flex items-center justify-center">
                       <p className="text-gray-600">
-                        Position: {result.position}
+                        Position: 
                       </p>
-                      <p className="text-gray-600">Grade: {result.grade}</p>
+                      <p className="font-bold text-gray-800">
+                      {result.position}
+                      </p>
+                      </div>
+                      <div className="flex items-center justify-center">
+                      <p className="text-gray-600">
+                        Grade: 
+                      </p>
+                      <p className="font-bold text-gray-800">
+                      {result.grade}
+                      </p>
+                      </div>
                     </div>
                   </div>
                 ))}
