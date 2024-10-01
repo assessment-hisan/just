@@ -18,7 +18,7 @@ export default function Home() {
         <div className="h-[35vh] md:h-[40vh] lg:h-[30vh]"></div>
         <img 
           src="/sq.png" 
-          className="absolute top-[20%] w-full h-auto  
+          className="absolute left-1/2 transform -translate-x-1/2 -translate-y-1/2 top-[25%] w-[90%] h-auto 
           block md:hidden " 
           alt="Logo"
         />
