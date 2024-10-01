@@ -160,33 +160,35 @@ const ScoreBoard = () => {
   const sections = ["Ula", "Thaniya", "Thanaviya", "Aliya", "Khulliya"];
 
   return (
-    <div className="container mx-auto p-4">
-      <h2 className="text-2xl font-bold text-center mb-6">Scoreboard</h2>
-      <div className="overflow-x-auto">
-        <table className="table-auto w-full bg-white shadow-lg rounded-lg">
-          <thead className="bg-gray-100">
-            <tr>
-              <th className="px-4 py-2 text-left">Team Name</th>
-              {sections.map((section) => (
-                <th key={section} className="px-4 py-2 text-left">{section}</th>
-              ))}
-              <th className="px-4 py-2 text-left">Total</th>
-            </tr>
-          </thead>
-          <tbody>
-            {teams.map((team) => (
-              <tr key={team} className="border-t">
-                <td className="px-4 py-2">{team}</td>
+    <div className="flex bg-transparent justify-center mb-7">
+      <div className="max-w-xl w-full">
+        <h2 className="text-2xl font-bold text-center mb-6">Scoreboard</h2>
+        <div className="overflow-x-auto rounded-lg shadow-xl">
+          <table className=" bg-slate-100 w-full  border-2 border-slate-300 ">
+            <thead className="bg-gray-100">
+              <tr>
+                <th className="pl-4 py-2 text-left">Team</th>
                 {sections.map((section) => (
-                  <td key={section} className="px-4 py-2">
-                    {totalScores[team].sections[section]}
-                  </td>
+                  <th key={section} className="px-2 py-2 text-left">{section}</th>
                 ))}
-                <td className="px-4 py-2 font-bold">{totalScores[team].total}</td>
+                <th className="px-4 py-2 text-left">Total</th>
               </tr>
-            ))}
-          </tbody>
-        </table>
+            </thead>
+            <tbody>
+              {teams.map((team) => (
+                <tr key={team} className="border-t">
+                  <td className="px-4 py-2">{team}</td>
+                  {sections.map((section) => (
+                    <td key={section} className="pr-5 py-2 text-right">
+                      {totalScores[team].sections[section]}
+                    </td>
+                  ))}
+                  <td className="pr-4 py-2 font-bold text-right">{totalScores[team].total}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       </div>
     </div>
   );
