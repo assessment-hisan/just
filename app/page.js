@@ -1,5 +1,10 @@
 import Link from 'next/link'
-
+import  { Metadata } from 'next'
+ 
+export const metadata = {
+  title: 'HANDALA',
+ 
+}
 export default function Home() {
   return (
     <>
@@ -11,7 +16,12 @@ export default function Home() {
           alt="Background Pattern"
         />
         <div className="h-[35vh] md:h-[40vh] lg:h-[30vh]"></div>
-        
+        <img 
+          src="/sq.png" 
+          className="absolute top-[20%] w-full h-auto  
+          block md:hidden " 
+          alt="Logo"
+        />
         {/* Logo Image - Full visibility on mobile, partially covered on larger screens */}
         <img 
           src="/LOGO (2).png" 

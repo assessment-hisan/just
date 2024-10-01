@@ -1,7 +1,10 @@
+
+
 "use client";
 import { useState } from "react";
 import Filter from "../../components/Filter"; // Import the filter component
 import ScoreBoard from "../../components/ScoreBoard"
+
 
 // Sample data
 const mockData = [
