@@ -11,7 +11,7 @@ export default function Home() {
       {/* Logo Image - Full visibility on mobile, partially covered on larger screens */}
       <img 
         src="/LOGO (2).png" 
-        className="absolute inset-0 z-10 w-full h-[50vh] object-contain 
+        className="absolute inset-0 z-10 w-full h-[65vh] object-contain 
         lg:h-[80vh] lg:top-[10%] md:top-[15%] sm:top-[20%] top-[25%]" 
         alt="Logo"
       />
