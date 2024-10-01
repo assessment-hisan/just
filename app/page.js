@@ -9,9 +9,9 @@ export default function Home() {
   <div className="h-[35vh] md:h-[40vh] lg:h-[30vh]"></div>
   
   {/* Title with Montserrat font */}
-  <div className="absolute top-10 left-0 right-0 flex flex-col items-center justify-center pt-20 md:pt-0">
-    <h1 className="font-black font-montserrat text-[#9a0107] text-5xl  lg:text-5xl">The voices of</h1>
-    <h1 className="font-black font-montserrat text-[#9a0107] text-5xl  lg:text-5xl leading-none">Palestine Rise</h1>
+  <div className="absolute top-10 left-0 right-0 flex flex-col items-center justify-center pt-20 px-5 md:pt-0">
+    <h1 className="font-black font-montserrat text-black text-5xl  lg:text-5xl">The voices of</h1>
+    <h1 className="font-black font-montserrat text-black text-5xl  lg:text-5xl leading-none">Palestine Rise</h1>
   </div>
 
   {/* Logo Image - Full visibility on mobile, partially covered on larger screens */}
