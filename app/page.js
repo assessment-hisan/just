@@ -6,7 +6,11 @@ export default function Home() {
     <>
     <div className="bg-[#91ddea] relative">
   {/* Empty space above the images */}
-  <img src="/pattern2.png" height={10} className="pt-10"/>
+  <img 
+    src="/pattern2.png" 
+    className="w-full h-8 md:h-auto absolute top-10 left-0 z-0" 
+    alt="Background Pattern"
+  />
   <div className="h-[35vh] md:h-[40vh] lg:h-[30vh]"></div>
   
   {/* Title with Montserrat font */}
@@ -36,7 +40,7 @@ export default function Home() {
   {/* Background Pattern Image */}
   <img 
     src="/pattern2.png" 
-    className="w-full h-auto absolute top-0 left-0 z-0" 
+    className="w-full h-8 md:h-auto absolute top-0 left-0 z-0" 
     alt="Background Pattern"
   />
   
@@ -66,7 +70,7 @@ export default function Home() {
 
   <img 
     src="/pattern2.png" 
-    className="w-full h-auto absolute bottom-0 left-0 z-0" 
+    className="w-full h-8 md:h-auto absolute bottom-0 left-0 z-0" 
     alt="Background Pattern"
   />
 </div>
