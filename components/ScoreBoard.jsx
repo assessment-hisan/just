@@ -163,8 +163,8 @@ const ScoreBoard = () => {
     <div className="flex bg-transparent justify-center mb-7">
       <div className="max-w-xl w-full">
         <h2 className="text-2xl font-bold text-center mb-6">Scoreboard</h2>
-        <div className="overflow-x-auto rounded-lg shadow-xl">
-          <table className=" bg-slate-100 w-full  border-1 border-slate-300 ">
+        <div className="overflow-x-auto rounded-lg shadow-lg border-1 border-slate-300 ">
+          <table className=" bg-slate-100 w-full  ">
             <thead className="bg-gray-100">
               <tr>
                 <th className="pl-4 py-2 text-left">Team</th>

@@ -2,6 +2,7 @@
 import { useState } from "react";
 import Filter from "../../components/Filter"; // Import the filter component
 import ScoreBoard from "../../components/ScoreBoard"
+
 // Sample data
 const mockData = [
   {
@@ -126,22 +127,18 @@ const Page = () => {
 
   // Toggle expand/collapse on clicking a program div
   const handleProgramClick = (program) => {
-    if (expandedProgram === program) {
-      setExpandedProgram(null); // Collapse if already expanded
-    } else {
-      setExpandedProgram(program); // Expand new program
-    }
+    setExpandedProgram((prev) => (prev === program ? null : program)); // Collapse if already expanded
   };
 
   return (
-    <div className="p-6 bg-slate-100 min-h-screen">
-      <ScoreBoard/>
+    <div className="p-6 bg-slate-300 min-h-screen">
+      <ScoreBoard />
       {/* Filter/Search Section */}
-      <Filter
-        programs={mockData}
-        onProgramSelect={(program) => handleProgramClick(program)}
-        onFilterChange={handleFilterChange} // Pass callback to get filtered programs
-      />
+          <Filter
+      programs={mockData}
+      onFilterChange={handleFilterChange} // Pass callback to get filtered programs
+    />
+
 
       {/* Program Divs */}
       <div className="space-y-4 mt-6 max-w-xl mx-auto">
@@ -154,10 +151,13 @@ const Page = () => {
               height: expandedProgram === program ? "auto" : "60px", // Expand on click
               overflow: "hidden", // Hide content if collapsed
             }}
+            role="button" // Improve accessibility
+            tabIndex={0} // Make it focusable
+            onKeyPress={(e) => { if (e.key === "Enter") handleProgramClick(program); }} // Handle keyboard interactions
           >
             <div className="flex gap-3">
-            <h3 className="font-bold text-gray-800">{program.program_name}</h3>
-            <h5 className="text-gray-600">{program.section}</h5>
+              <h3 className="font-bold text-gray-800">{program.program_name}</h3>
+              <h5 className="text-gray-600">{program.section}</h5>
             </div>
 
             {/* Detailed view when expanded */}
@@ -181,20 +181,12 @@ const Page = () => {
                         {result.contestant_name}
                       </p>
                       <div className="flex items-center justify-center">
-                      <p className="text-gray-600">
-                        Position: 
-                      </p>
-                      <p className="font-bold text-gray-800">
-                      {result.position}
-                      </p>
+                        <p className="text-gray-600">Position:</p>
+                        <p className="font-bold text-gray-800">{result.position}</p>
                       </div>
                       <div className="flex items-center justify-center">
-                      <p className="text-gray-600">
-                        Grade: 
-                      </p>
-                      <p className="font-bold text-gray-800">
-                      {result.grade}
-                      </p>
+                        <p className="text-gray-600">Grade:</p>
+                        <p className="font-bold text-gray-800">{result.grade}</p>
                       </div>
                     </div>
                   </div>
@@ -209,3 +201,4 @@ const Page = () => {
 };
 
 export default Page;
+
