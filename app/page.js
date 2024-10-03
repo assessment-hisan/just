@@ -15,7 +15,7 @@ export default function Home() {
           className="w-full h-8 md:h-auto absolute top-10 left-0 z-0" 
           alt="Background Pattern"
         />
-        <div className="h-[35vh] md:h-[40vh] lg:h-[30vh]"></div>
+        <div className="h-[35vh] md:h-[40vh] lg:h-[15vh]"></div>
         <img 
           src="/sq.png" 
           className="absolute left-1/2 transform -translate-x-1/2 -translate-y-1/2 top-[25%] w-[90%] h-auto 
@@ -57,13 +57,13 @@ export default function Home() {
         />
         
         {/* Container for Logo and Description */}
-        <div className="flex flex-col sm:flex-row items-center justify-center relative z-10 py-12 px-5">
+        <div className="flex flex-col sm:gap-3  sm:flex-row items-center sm:items-start justify-center relative z-10 py-12 px-5">
           
           {/* Logo Section */}
           <div className="flex-shrink-0 mb-4 md:mb-0">
             <img 
               src="/squared logo.png" 
-              className="h-24 w-24 md:h-80 md:w-80 object-contain" 
+              className="h-24 w-24 sm:h-80 sm:w-80 object-contain" 
               alt="Logo"
             />
           </div>
@@ -88,7 +88,7 @@ export default function Home() {
       </div>
       
       <div className="h-[30vh] bg-black p-5">
-        <h4 className="font-montserrat text-white">NAHJ ARTS FEST'24  HANDALA</h4>
+        <h4 className="font-montserrat text-white">HANDALA   NAHJ ARTS FEST'24</h4>
         <div className='mt-3'>
           <h4 className='font-montserrat font-bold text-white'>Nahjurrashad Islamic College</h4>
           <h6 className='font-montserrat text-white'>Chamakkala Beach Road Chamakkala, Chenthrapini, Kerala 680687</h6>
