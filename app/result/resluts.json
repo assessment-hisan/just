@@ -1475,7 +1475,8 @@
                 "admission_no": "NILL",
                 "contestant_name": "NILL",
                 "class": "NILL",
-                "team": "NILL"
+                "team": "NILL",
+                "total_result": ""
             }
         ]
     },

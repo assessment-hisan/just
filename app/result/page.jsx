@@ -26,7 +26,7 @@ const Page = () => {
   const handleFilterChange = (filtered) => {
     setFilteredPrograms(filtered); // Update filtered results
   };
-
+ console.log(data.length)
   // Toggle expand/collapse on clicking a program div
   const handleProgramClick = (program) => {
     setExpandedProgram((prev) => (prev === program ? null : program)); // Collapse if already expanded
@@ -34,7 +34,7 @@ const Page = () => {
 
   return (
     <div className="p-6 bg-slate-300 min-h-screen">
-      <ScoreBoard />
+      {/* <ScoreBoard /> */}
       {/* Filter/Search Section */}
           <Filter
       programs={mockData}
