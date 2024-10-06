@@ -43,7 +43,7 @@
     },
     {
         "program_name": "MEMORY TEST",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -112,7 +112,7 @@
     },
     {
         "program_name": "WATER PAINTING",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -291,7 +291,7 @@
     },
     {
         "program_name": "CANVAS PAINTING",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -334,7 +334,7 @@
     },
     {
         "program_name": "CODE CRAFT",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -535,7 +535,7 @@
     },
     {
         "program_name": "STORY COMPLETION ARB",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -570,7 +570,7 @@
     },
     {
         "program_name": "STORY COMPLETION URD",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -613,7 +613,7 @@
     },
     {
         "program_name": "MULĀFAẒAH ARB",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -1031,7 +1031,7 @@
     },
     {
         "program_name": "AL FAQĪH",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -1106,7 +1106,7 @@
     },
     {
         "program_name": "ESSAY MLM",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -1148,7 +1148,7 @@
     },
     {
         "program_name": "POEM ARB",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -1174,7 +1174,7 @@
     },
     {
         "program_name": "POEM URD",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -1217,7 +1217,7 @@
     },
     {
         "program_name": "ABSTRACT WRITING ENG",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -1252,7 +1252,7 @@
     },
     {
         "program_name": "GK QUIZ",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -1355,7 +1355,7 @@
     },
     {
         "program_name": "SUDOKU",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -1398,7 +1398,7 @@
     },
     {
         "program_name": "POEM WRITING ENG",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -1610,7 +1610,7 @@
     },
     {
         "program_name": "Mr. TRASNSLATOR",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -1645,7 +1645,7 @@
     },
     {
         "program_name": "ESSAY ARB",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -1689,7 +1689,7 @@
     },
     {
         "program_name": "ACADEMIC ESSAY ENG",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -1782,7 +1782,7 @@
     },
     {
         "program_name": "PENCIL DRAWING",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -1817,7 +1817,7 @@
     },
     {
         "program_name": "MULĀFAẒAH URD",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -2006,7 +2006,7 @@
     },
     {
         "program_name": "SHORT STORY MLM",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -2041,7 +2041,7 @@
     },
     {
         "program_name": "POEM MLM",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -2084,7 +2084,7 @@
     },
     {
         "program_name": "SHORT STORY ARB",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -2199,7 +2199,7 @@
     },
     {
         "program_name": "MATH TALENT",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -2243,7 +2243,7 @@
     },
     {
         "program_name": "ESSAY WRITING MLM",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -2277,7 +2277,7 @@
     },
     {
         "program_name": "NEWS WRITING MLM",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -2302,7 +2302,7 @@
     },
     {
         "program_name": "APPRECIATION MLM",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -2558,7 +2558,7 @@
     },
     {
         "program_name": "POEM ENG",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -2593,7 +2593,7 @@
     },
     {
         "program_name": "SCREEN PLAY WRITING MLM",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -2637,7 +2637,7 @@
     },
     {
         "program_name": "ESSAY URD",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -2696,7 +2696,7 @@
     },
     {
         "program_name": "POEM WRITING MLM",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -2736,7 +2736,7 @@
     },
     {
         "program_name": "WORD FIGHT ENG",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -3046,7 +3046,7 @@
     },
     {
         "program_name": "UI DESIGNING",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -3105,7 +3105,7 @@
     },
     {
         "program_name": "SPEECH URD",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -3165,7 +3165,7 @@
     },
     {
         "program_name": "POWER POINT CREATION",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -3336,7 +3336,7 @@
     },
     {
         "program_name": "ACADEMIC TALK ENG",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -3369,7 +3369,7 @@
     },
     {
         "program_name": "AL ʿARABI",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -3471,7 +3471,7 @@
     },
     {
         "program_name": "SPEECH MLM",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -3514,7 +3514,7 @@
     },
     {
         "program_name": "NJAN MALAYALI",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -3743,7 +3743,7 @@
     },
     {
         "program_name": "KHUṬBAH",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -3777,7 +3777,7 @@
     },
     {
         "program_name": "WAʿẒ",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -3898,7 +3898,7 @@
     },
     {
         "program_name": "SONG MLM",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -3958,7 +3958,7 @@
     },
     {
         "program_name": "STORY NARRATION ENG",
-        "section": "ʾŪLĀ",
+        "section": "ŪLĀ",
         "single": false,
         "master": false,
         "results": [
@@ -4190,7 +4190,7 @@
     },
     {
         "program_name": "MOCK INTERVIEW ENG",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -4224,7 +4224,7 @@
     },
     {
         "program_name": "DOCUMENTARY NARRATION ARB",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
@@ -4259,7 +4259,7 @@
     },
     {
         "program_name": "POLITICAL SATIRE MLM",
-        "section": "ʿᾹLIYAH",
+        "section": "ᾹLIYAH",
         "single": false,
         "master": false,
         "results": [
