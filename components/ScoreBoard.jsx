@@ -1,6 +1,5 @@
-import data from "../app/result/resluts.json"; // Assuming the correct path for your JSON file
+import { toFormData } from "axios";
 
-const mockData = data;
 
 const calculateTeamScores = (data) => {
   // Define team names as per the data
@@ -25,7 +24,6 @@ const calculateTeamScores = (data) => {
     program.results.forEach((result) => {
       const team = result.team;
       const totalPoints = result.total_result || 0; // Use total_result directly from mockData
-
       // Ensure the team exists in scoreBoard before adding points
       if (scoreBoard[team]) {
         scoreBoard[team].sections[section] += totalPoints;
@@ -33,12 +31,14 @@ const calculateTeamScores = (data) => {
       }
     });
   });
-
+ 
   return scoreBoard;
 };
 
-const ScoreBoard = () => {
-  const totalScores = calculateTeamScores(mockData);
+
+
+const ScoreBoard = ({data}) => {
+  const totalScores = calculateTeamScores(data);
   const teams = Object.keys(totalScores);
   const sections = ["BIDĀYAH", "ŪLĀ", "THĀNIYAH", "THĀNAWIYYAH", "ᾹLIYAH", "KULLIYYAH"];
 
