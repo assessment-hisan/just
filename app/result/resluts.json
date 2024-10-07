@@ -1,38 +1,17 @@
 [
-    {
-        "program_name": "PENCIL DRAWING",
-        "section": "BIDĀYAH",
-        "single": false,
-        "master": false,
-        "results": [
-            {
-                "position": 1,
-                "grade": "B",
-                "admission_no": 746,
-                "contestant_name": "SHAMEEM FARHAN. K.S",
-                "class": 1,
-                "team": "Rām Allāh",
-                "total_result": 8
-            },
-            {
-                "position": 3,
-                "grade": "",
-                "admission_no": 768,
-                "contestant_name": "FAAZ MUHAMMED K ",
-                "class": 1,
-                "team": "Jabalia",
-                "total_result": 1
-            },
-            {
-                "position": 3,
-                "admission_no": 770,
-                "contestant_name": "MOHAMMED JASIM C ",
-                "class": 1,
-                "team": "Rām Allāh",
-                "total_result": 1
-            }
-        ]
-    },
+    { "program_name": "PENCIL DRAWING", 
+    "section": "BIDĀYAH", 
+    "single": false, 
+    "master": false, 
+    "results": [ 
+        { 
+            "position": 1, 
+            "grade": "B", 
+            "admission_no": 746, 
+            "contestant_name": "SHAMEEM FARHAN. K.S", 
+            "class": 1, "team": "Rām Allāh",
+             "total_result": 8 }, 
+             { "position": 3, "grade": "", "admission_no": 768, "contestant_name": "FAAZ MUHAMMED K ", "class": 1, "team": "Jabalia", "total_result": 1 }, { "position": 3, "admission_no": 770, "contestant_name": "MOHAMMED JASIM C ", "class": 1, "team": "Rām Allāh", "total_result": 1 } ] },
     {
         "program_name": "GK QUIZ",
         "section": "BIDĀYAH",
@@ -3414,7 +3393,7 @@
                 "contestant_name": "MOHAMMED SUHAIL ",
                 "class": 8,
                 "team": "Rafaḥ",
-                "total_result": 3
+                "total_result": 1
             },
             {
                 "position": 3,
@@ -3422,7 +3401,7 @@
                 "contestant_name": "MUHAMMED AMEEN T",
                 "class": 8,
                 "team": "Jabalia",
-                "total_result": 3
+                "total_result": 1
             }
         ]
     },
@@ -5317,6 +5296,2818 @@
                 "class": 10,
                 "team": "Jabalia",
                 "total_result": 4
+            }
+        ]
+    },
+    {
+        "program_name": "SONG ARB",
+        "section": "ŪLĀ",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 674,
+                "contestant_name": "MIDLAJ POOVANCHERI ",
+                "class": 3,
+                "team": "Rafaḥ",
+                "total_result": 8
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 739,
+                "contestant_name": "MOHAMMED IRFAN R M ",
+                "class": 2,
+                "team": "Jabalia",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 743,
+                "contestant_name": "MUHAMMED HASEEB P H ",
+                "class": 2,
+                "team": "Rafaḥ",
+                "total_result": 4
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 724,
+                "contestant_name": "MUHAMMAD ADHNAN M S ",
+                "class": 2,
+                "team": "Ġazzah",
+                "total_result": 4
+            }
+        ]
+    },
+    {
+        "program_name": "SONG URD",
+        "section": "ŪLĀ",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 665,
+                "contestant_name": "MUHAMMED ADIL S ",
+                "class": 3,
+                "team": "Jabalia",
+                "total_result": 8
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 745,
+                "contestant_name": "MUHAMMAD HANAN KT ",
+                "class": 2,
+                "team": "Rām Allāh",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 655,
+                "contestant_name": "Muhammed Shimlal.KP ",
+                "class": 3,
+                "team": "Rafaḥ",
+                "total_result": 4
+            }
+        ]
+    },
+    {
+        "program_name": "VOCABULARY",
+        "section": "ŪLĀ",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "admission_no": 672,
+                "contestant_name": "AMEEN HAMSA ",
+                "class": 3,
+                "team": "Ġazzah",
+                "total_result": 5
+            },
+            {
+                "position": 2,
+                "admission_no": 661,
+                "contestant_name": "MUHAMMAD K S ",
+                "class": 3,
+                "team": "Rafaḥ",
+                "total_result": 3
+            },
+            {
+                "position": 3,
+                "admission_no": 726,
+                "contestant_name": "MOHAMMED MIDHLAJ P ",
+                "class": 2,
+                "team": "Jabalia",
+                "total_result": 1
+            },
+            {
+                "position": 3,
+                "admission_no": 685,
+                "contestant_name": "JASIM ISMAYIL ",
+                "class": 3,
+                "team": "Rafaḥ",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "HINDI VIDVAN",
+        "section": "ŪLĀ",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 672,
+                "contestant_name": "AMEEN HAMSA ",
+                "class": 3,
+                "team": "Ġazzah",
+                "total_result": 8
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 662,
+                "contestant_name": "MUHAMMED AZEEF K.A ",
+                "class": 3,
+                "team": "Rafaḥ",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "admission_no": 722,
+                "contestant_name": "MUHAMMED SHAMMAS M S ",
+                "class": 2,
+                "team": "Rām Allāh",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "SPELLING BEE",
+        "section": "ŪLĀ",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 688,
+                "contestant_name": "Nasim H ",
+                "class": 3,
+                "team": "Rafaḥ",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 672,
+                "contestant_name": "AMEEN HAMSA ",
+                "class": 3,
+                "team": "Ġazzah",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 658,
+                "contestant_name": "REZIN MUHAMMED K ",
+                "class": 3,
+                "team": "Ġazzah",
+                "total_result": 4
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 710,
+                "contestant_name": "MUHAMMED ATHIF. U. A ",
+                "class": 2,
+                "team": "Jabalia",
+                "total_result": 4
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 677,
+                "contestant_name": "IRSHADUDHEEN K A ",
+                "class": 3,
+                "team": "Rām Allāh",
+                "total_result": 4
+            }
+        ]
+    },
+    {
+        "program_name": "GEO GIANT",
+        "section": "ŪLĀ",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "admission_no": 738,
+                "contestant_name": "MOHAMED P M ",
+                "class": 2,
+                "team": "Rafaḥ",
+                "total_result": 5
+            }
+        ]
+    },
+    {
+        "program_name": "SHORT STORY MLM",
+        "section": "ŪLĀ",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 3,
+                "admission_no": 676,
+                "contestant_name": "ANSIF AZEEZ ",
+                "class": 3,
+                "team": "Rafaḥ",
+                "total_result": 1
+            },
+            {
+                "position": 3,
+                "admission_no": 659,
+                "contestant_name": "MAHMOOD P M ",
+                "class": 3,
+                "team": "Ġazzah",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "STORY COMPLETION ENG",
+        "section": "ŪLĀ",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 688,
+                "contestant_name": "Nasim H ",
+                "class": 3,
+                "team": "Rafaḥ",
+                "total_result": 8
+            },
+            {
+                "position": 2,
+                "admission_no": 660,
+                "contestant_name": "MUHAMMED ADHNAN E M ",
+                "class": 3,
+                "team": "Rām Allāh",
+                "total_result": 3
+            },
+            {
+                "position": 3,
+                "admission_no": 717,
+                "contestant_name": "MUHAMMED FAZAL C S ",
+                "class": 2,
+                "team": "Ġazzah",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "LETTER WRITING ENG",
+        "section": "ŪLĀ",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 658,
+                "contestant_name": "REZIN MUHAMMED K ",
+                "class": 3,
+                "team": "Ġazzah",
+                "total_result": 8
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 660,
+                "contestant_name": "MUHAMMED ADHNAN E M ",
+                "class": 3,
+                "team": "Rām Allāh",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 688,
+                "contestant_name": "Nasim H ",
+                "class": 3,
+                "team": "Rafaḥ",
+                "total_result": 4
+            }
+        ]
+    },
+    {
+        "program_name": "POSTER DESIGNING",
+        "section": "ŪLĀ",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 690,
+                "contestant_name": "MUHAMMED YASEEN ",
+                "class": 3,
+                "team": "Rafaḥ",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "admission_no": 736,
+                "contestant_name": "RAHI AMEEN K ",
+                "class": 2,
+                "team": "Rām Allāh",
+                "total_result": 1
+            },
+            {
+                "position": 3,
+                "admission_no": 717,
+                "contestant_name": "MUHAMMED FAZAL C S ",
+                "class": 2,
+                "team": "Ġazzah",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "ṢARF IQ",
+        "section": "ŪLĀ",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 672,
+                "contestant_name": "AMEEN HAMSA ",
+                "class": 3,
+                "team": "Ġazzah",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 681,
+                "contestant_name": "MUHAMMED THAMEEM KONDOTIIKKARAN ",
+                "class": 3,
+                "team": "Jabalia",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 661,
+                "contestant_name": "MUHAMMAD K S ",
+                "class": 3,
+                "team": "Rafaḥ",
+                "total_result": 4
+            },
+            {
+                "grade": "B",
+                "admission_no": 720,
+                "contestant_name": "MUHAMMED FAHEEM KK ",
+                "class": 2,
+                "team": "Rām Allāh",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "SONG ARB",
+        "section": "THĀNIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 572,
+                "contestant_name": "MUHAMMAD HALEEM JABIR ",
+                "class": 5,
+                "team": "Ġazzah",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 614,
+                "contestant_name": "MUHAMMAD MUSTHAFA. M.S ",
+                "class": 4,
+                "team": "Jabalia",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "A",
+                "admission_no": 629,
+                "contestant_name": "N THOUFEEK ",
+                "class": 4,
+                "team": "Ġazzah",
+                "total_result": 6
+            }
+        ]
+    },
+    {
+        "program_name": "PADHYAPARAYANAM",
+        "section": "THĀNIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 601,
+                "contestant_name": "MUHAMMED SHAMEEM.K ",
+                "class": 5,
+                "team": "Ġazzah",
+                "total_result": 10
+            },
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 653,
+                "contestant_name": "MUHAMMED ADIL KK ",
+                "class": 4,
+                "team": "Rafaḥ",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 582,
+                "contestant_name": "MUHAMMED NABEEL.P.S ",
+                "class": 5,
+                "team": "Jabalia",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "A",
+                "admission_no": 602,
+                "contestant_name": "NIHAL NAZAR. ",
+                "class": 5,
+                "team": "Rām Allāh",
+                "total_result": 6
+            }
+        ]
+    },
+    {
+        "program_name": "SPEECH ARB",
+        "section": "THĀNIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 572,
+                "contestant_name": "MUHAMMAD HALEEM JABIR ",
+                "class": 5,
+                "team": "Ġazzah",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 636,
+                "contestant_name": "MOHAMED ASHFAQU AP ",
+                "class": 4,
+                "team": "Jabalia",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 618,
+                "contestant_name": "MUHAMMED SUHAIL PH ",
+                "class": 4,
+                "team": "Ġazzah",
+                "total_result": 4
+            },
+            {
+                "grade": "B",
+                "admission_no": 653,
+                "contestant_name": "MUHAMMED ADIL KK ",
+                "class": 4,
+                "team": "Rafaḥ",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "HISTORY TALK ENG",
+        "section": "THĀNIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 619,
+                "contestant_name": "MUHAMMAD NASEEF A N ",
+                "class": 4,
+                "team": "Rafaḥ",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 609,
+                "contestant_name": "MUHAMMED SAHL.M. S ",
+                "class": 5,
+                "team": "Ġazzah",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 620,
+                "contestant_name": "MOHAMMED SHAYAN.E.S ",
+                "class": 4,
+                "team": "Rām Allāh",
+                "total_result": 4
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 613,
+                "contestant_name": "MOHAMMED RIZWAAN K.V ",
+                "class": 5,
+                "team": "Rafaḥ",
+                "total_result": 4
+            }
+        ]
+    },
+    {
+        "program_name": "GAZAL",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 496,
+                "contestant_name": "Muhammed Rizvan V",
+                "class": 7,
+                "team": "Ġazzah",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 539,
+                "contestant_name": "MUHAMMED AMEEN ",
+                "class": 6,
+                "team": "Rafaḥ",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "admission_no": 543,
+                "contestant_name": "SWABAH.C.A ",
+                "class": 6,
+                "team": "Rām Allāh",
+                "total_result": 1
+            },
+            {
+                "position": 3,
+                "admission_no": 493,
+                "contestant_name": "Muhammed Afnan PK",
+                "class": 7,
+                "team": "Jabalia",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "ESSAY ENG",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 537,
+                "contestant_name": "MUHAMMED SINAN K M ",
+                "class": 6,
+                "team": "Ġazzah",
+                "total_result": 8
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 538,
+                "contestant_name": "AL AMEEN .M.S ",
+                "class": 6,
+                "team": "Ġazzah",
+                "total_result": 6
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 465,
+                "contestant_name": "Muhammed Afreed ",
+                "class": 7,
+                "team": "Jabalia",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 503,
+                "contestant_name": "Muhammed Ihsan ",
+                "class": 7,
+                "team": "Rafaḥ",
+                "total_result": 4
+            }
+        ]
+    },
+    {
+        "program_name": "ESSAY ARB",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 505,
+                "contestant_name": "Munavarsha Kamal ",
+                "class": 7,
+                "team": "Rafaḥ",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 535,
+                "contestant_name": "MUHAMMED MA-AMOON ",
+                "class": 6,
+                "team": "Ġazzah",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 494,
+                "contestant_name": "AHMAD FAYAS CA",
+                "class": 7,
+                "team": "Rām Allāh",
+                "total_result": 4
+            }
+        ]
+    },
+    {
+        "program_name": "ESSAY URD",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 551,
+                "contestant_name": "MUHAMMAD SAHEL.C.P. ",
+                "class": 6,
+                "team": "Rafaḥ",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 473,
+                "contestant_name": "IRFAN P NAISAL",
+                "class": 7,
+                "team": "Ġazzah",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 519,
+                "contestant_name": "Muhammed Jiyad ",
+                "class": 7,
+                "team": "Ġazzah",
+                "total_result": 4
+            },
+            {
+                "grade": "B",
+                "admission_no": 531,
+                "contestant_name": "Mohammed Abdul Basith KP",
+                "class": 7,
+                "team": "Jabalia",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "PROS TO POETRY ENG",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 473,
+                "contestant_name": "IRFAN P NAISAL",
+                "class": 7,
+                "team": "Ġazzah",
+                "total_result": 10
+            },
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 538,
+                "contestant_name": "AL AMEEN .M.S ",
+                "class": 6,
+                "team": "Ġazzah",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 543,
+                "contestant_name": "SWABAH.C.A ",
+                "class": 6,
+                "team": "Rām Allāh",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 523,
+                "contestant_name": "Muhammed Irfan KM",
+                "class": 7,
+                "team": "Rafaḥ",
+                "total_result": 4
+            }
+        ]
+    },
+    {
+        "program_name": "NEWS WRITING ENG",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 538,
+                "contestant_name": "AL AMEEN .M.S ",
+                "class": 6,
+                "team": "Ġazzah",
+                "total_result": 8
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 465,
+                "contestant_name": "Muhammed Afreed ",
+                "class": 7,
+                "team": "Jabalia",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 499,
+                "contestant_name": "Muhammed Mabrook KS",
+                "class": 6,
+                "team": "Rafaḥ",
+                "total_result": 4
+            }
+        ]
+    },
+    {
+        "program_name": "WEB DESIGNING",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 551,
+                "contestant_name": "MUHAMMAD SAHEL.C.P. ",
+                "class": 6,
+                "team": "Rafaḥ",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 537,
+                "contestant_name": "MUHAMMED SINAN K M ",
+                "class": 6,
+                "team": "Ġazzah",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "admission_no": 540,
+                "contestant_name": "MUHAMMED IHSAN ",
+                "class": 6,
+                "team": "Jabalia",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "TAʿLĪM AL SUNNAH MLM",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "admission_no": 502,
+                "contestant_name": "Ahamed Sinan ",
+                "class": 7,
+                "team": "Rām Allāh",
+                "total_result": 5
+            },
+            {
+                "position": 2,
+                "admission_no": 567,
+                "contestant_name": "MUHAMMED FAYIZ V N ",
+                "class": 6,
+                "team": "Ġazzah",
+                "total_result": 3
+            },
+            {
+                "position": 3,
+                "admission_no": 489,
+                "contestant_name": "AJMAL P",
+                "class": 7,
+                "team": "Rām Allāh",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "CRYPTIC CROSSWORD",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 2,
+                "admission_no": 500,
+                "contestant_name": "Absar Salim ",
+                "class": 7,
+                "team": "Ġazzah",
+                "total_result": 3
+            },
+            {
+                "position": 3,
+                "admission_no": 518,
+                "contestant_name": "Muhsin Mubarak ",
+                "class": 6,
+                "team": "Jabalia",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "SCIENCE MASTER",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "admission_no": 499,
+                "contestant_name": "Muhammed Mabrook KS",
+                "class": 6,
+                "team": "Rafaḥ",
+                "total_result": 5
+            },
+            {
+                "position": 2,
+                "admission_no": 545,
+                "contestant_name": "AHAMMAD SAINUDEEN ",
+                "class": 6,
+                "team": "Ġazzah",
+                "total_result": 3
+            },
+            {
+                "position": 3,
+                "admission_no": 489,
+                "contestant_name": "AJMAL P",
+                "class": 7,
+                "team": "Rām Allāh",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "SPEECH & SONG URD",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "admission_no": 534,
+                "contestant_name": "JASIL TJ  and Team",
+                "class": 6,
+                "team": "Rafaḥ",
+                "total_result": 7
+            },
+            {
+                "position": 2,
+                "admission_no": 502,
+                "contestant_name": "Ahamed Sinan  and Team",
+                "class": 7,
+                "team": "Rām Allāh",
+                "total_result": 5
+            },
+            {
+                "position": 3,
+                "admission_no": 500,
+                "contestant_name": "Absar Salim  and Team",
+                "class": 7,
+                "team": "Ġazzah",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "LECTURING ENG",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 699,
+                "contestant_name": "MUHAMMED LIYAKATH PK",
+                "class": 10,
+                "team": "Ġazzah",
+                "total_result": 8
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 704,
+                "contestant_name": "MUHAMMED RASHAD PT",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 485,
+                "contestant_name": "AFTHAB ABDUL KADER ",
+                "class": 8,
+                "team": "Rām Allāh",
+                "total_result": 4
+            }
+        ]
+    },
+    {
+        "program_name": "PADAPPATTU",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 785,
+                "contestant_name": "Ahammed safvan KT",
+                "class": 8,
+                "team": "Rafaḥ",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 357,
+                "contestant_name": "Muhammad Junaid K.U",
+                "class": 9,
+                "team": "Rām Allāh",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 392,
+                "contestant_name": "Sainul Abid ",
+                "class": 9,
+                "team": "Ġazzah",
+                "total_result": 4
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 421,
+                "contestant_name": "Muhammed Ibrahim Badusha Sudheer",
+                "class": 9,
+                "team": "Rām Allāh",
+                "total_result": 4
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 435,
+                "contestant_name": "Muhammed Uwaiz K A",
+                "class": 9,
+                "team": "Ġazzah",
+                "total_result": 4
+            }
+        ]
+    },
+    {
+        "program_name": "KAVIYARANG",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 782,
+                "contestant_name": "MINHAJ PC",
+                "class": 8,
+                "team": "Ġazzah",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 356,
+                "contestant_name": "Salmanul Farisy ",
+                "class": 10,
+                "team": "Rām Allāh",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 453,
+                "contestant_name": "FUADUDEEN ",
+                "class": 8,
+                "team": "Rām Allāh",
+                "total_result": 4
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 439,
+                "contestant_name": "Al Ameen S",
+                "class": 9,
+                "team": "Jabalia",
+                "total_result": 4
+            },
+            {
+                "grade": "B",
+                "admission_no": 702,
+                "contestant_name": "Mohammed Mubashir P",
+                "class": 10,
+                "team": "Ġazzah",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "JUNCTION SPEECH MLM",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 417,
+                "contestant_name": "Muhammed Fahim ",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 414,
+                "contestant_name": "Haris Ashraf ",
+                "class": 9,
+                "team": "Ġazzah",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "A",
+                "admission_no": 697,
+                "contestant_name": "HUSNI MUBARAK KT ",
+                "class": 10,
+                "team": "Rām Allāh",
+                "total_result": 6
+            },
+            {
+                "grade": "B",
+                "admission_no": 458,
+                "contestant_name": "MUHAMMED SHAFI ",
+                "class": 8,
+                "team": "Rafaḥ",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "SIYASI THAQREER URD",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 458,
+                "contestant_name": "MUHAMMED SHAFI ",
+                "class": 8,
+                "team": "Rafaḥ",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 706,
+                "contestant_name": "JAFAKASH JAHAN ",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 781,
+                "contestant_name": "MOHAMMED SHANIF P",
+                "class": 8,
+                "team": "Ġazzah",
+                "total_result": 4
+            },
+            {
+                "grade": "B",
+                "admission_no": 384,
+                "contestant_name": "Muhammed Ansif ",
+                "class": 10,
+                "team": "Rām Allāh",
+                "total_result": 3
+            },
+            {
+                "grade": "B",
+                "admission_no": 705,
+                "contestant_name": "BASIM AHAMMED ",
+                "class": 9,
+                "team": "Jabalia",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "Mr. ENGLISH",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 485,
+                "contestant_name": "AFTHAB ABDUL KADER ",
+                "class": 8,
+                "team": "Rām Allāh",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 700,
+                "contestant_name": "AJSAL MANAKKADAVAN",
+                "class": 10,
+                "team": "Rafaḥ",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 436,
+                "contestant_name": "Razal Abdul Rahman P.E",
+                "class": 9,
+                "team": "Ġazzah",
+                "total_result": 4
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 380,
+                "contestant_name": "Muhammed Rafi M.R",
+                "class": 10,
+                "team": "Jabalia",
+                "total_result": 4
+            }
+        ]
+    },
+    {
+        "program_name": "LOGICAL REASONING",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "admission_no": 440,
+                "contestant_name": "Irfaan Farhathu E C",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 5
+            },
+            {
+                "position": 2,
+                "admission_no": 416,
+                "contestant_name": "Tariq Anwar K.P",
+                "class": 9,
+                "team": "Rām Allāh",
+                "total_result": 3
+            },
+            {
+                "position": 2,
+                "admission_no": 454,
+                "contestant_name": "MOHAMMED SUHAIL ",
+                "class": 8,
+                "team": "Rafaḥ",
+                "total_result": 3
+            },
+            {
+                "position": 2,
+                "admission_no": 382,
+                "contestant_name": "Muhammed Nihal P.H",
+                "class": 10,
+                "team": "Rām Allāh",
+                "total_result": 3
+            },
+            {
+                "position": 3,
+                "admission_no": 433,
+                "contestant_name": "Muhammed Safwan K",
+                "class": 8,
+                "team": "Jabalia",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "PACKAGE DESIGINING",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 704,
+                "contestant_name": "MUHAMMED RASHAD PT",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 429,
+                "contestant_name": "Ahammed Nabeel A",
+                "class": 9,
+                "team": "Jabalia",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 468,
+                "contestant_name": "MOHAMMED SANIB MUFEED K.T",
+                "class": 8,
+                "team": "Ġazzah",
+                "total_result": 4
+            }
+        ]
+    },
+    {
+        "program_name": "ADVENTURE PHOTOGRAPHY",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 700,
+                "contestant_name": "AJSAL MANAKKADAVAN",
+                "class": 10,
+                "team": "Rafaḥ",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 357,
+                "contestant_name": "Muhammad Junaid K.U",
+                "class": 9,
+                "team": "Rām Allāh",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "A",
+                "admission_no": 702,
+                "contestant_name": "Mohammed Mubashir P",
+                "class": 10,
+                "team": "Ġazzah",
+                "total_result": 6
+            }
+        ]
+    },
+    {
+        "program_name": "SHORT STORY URD",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 374,
+                "contestant_name": "Ismail Jamal ",
+                "class": 10,
+                "team": "Rafaḥ",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 696,
+                "contestant_name": "MUHAMMED AFSAL KT",
+                "class": 10,
+                "team": "Ġazzah",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "A",
+                "admission_no": 439,
+                "contestant_name": "Al Ameen S",
+                "class": 9,
+                "team": "Jabalia",
+                "total_result": 6
+            },
+            {
+                "grade": "B",
+                "admission_no": 356,
+                "contestant_name": "Salmanul Farisy ",
+                "class": 10,
+                "team": "Rām Allāh",
+                "total_result": 3
+            },
+            {
+                "grade": "B",
+                "admission_no": 706,
+                "contestant_name": "JAFAKASH JAHAN ",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "SHORT STORY ENG",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 485,
+                "contestant_name": "AFTHAB ABDUL KADER ",
+                "class": 8,
+                "team": "Rām Allāh",
+                "total_result": 8
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 785,
+                "contestant_name": "Ahammed safvan KT",
+                "class": 8,
+                "team": "Rafaḥ",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 389,
+                "contestant_name": "Mohammed Nafih ",
+                "class": 9,
+                "team": "Ġazzah",
+                "total_result": 4
+            }
+        ]
+    },
+    {
+        "program_name": "CARICATURE",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 706,
+                "contestant_name": "JAFAKASH JAHAN ",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 449,
+                "contestant_name": "Muhammed Razik ",
+                "class": 8,
+                "team": "Ġazzah",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "admission_no": 414,
+                "contestant_name": "Haris Ashraf ",
+                "class": 9,
+                "team": "Ġazzah",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "MASHUP",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "admission_no": 357,
+                "contestant_name": "Muhammad Junaid K.U and Team",
+                "class": 9,
+                "team": "Rām Allāh",
+                "total_result": 7
+            },
+            {
+                "position": 2,
+                "admission_no": 435,
+                "contestant_name": "Muhammed Uwaiz K A and Team",
+                "class": 9,
+                "team": "Ġazzah",
+                "total_result": 5
+            },
+            {
+                "position": 3,
+                "admission_no": 704,
+                "contestant_name": "MUHAMMED RASHAD PT and Team",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "TRANSLATION TRILINGUAL",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "admission_no": 535,
+                "contestant_name": "MUHAMMED MA-AMOON ",
+                "class": 6,
+                "team": "Ġazzah",
+                "total_result": 5
+            },
+            {
+                "position": 2,
+                "admission_no": 534,
+                "contestant_name": "JASIL TJ ",
+                "class": 6,
+                "team": "Rafaḥ",
+                "total_result": 3
+            },
+            {
+                "position": 3,
+                "admission_no": 502,
+                "contestant_name": "Ahamed Sinan ",
+                "class": 7,
+                "team": "Rām Allāh",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "FEATURE WRITING ENG",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 473,
+                "contestant_name": "IRFAN P NAISAL",
+                "class": 7,
+                "team": "Ġazzah",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 538,
+                "contestant_name": "AL AMEEN .M.S ",
+                "class": 6,
+                "team": "Ġazzah",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 503,
+                "contestant_name": "Muhammed Ihsan ",
+                "class": 7,
+                "team": "Rafaḥ",
+                "total_result": 4
+            }
+        ]
+    },
+    {
+        "program_name": "TWEETING",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 473,
+                "contestant_name": "IRFAN P NAISAL",
+                "class": 7,
+                "team": "Ġazzah",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 517,
+                "contestant_name": "Jaseem Abdul Azeez KK",
+                "class": 7,
+                "team": "Rām Allāh",
+                "total_result": 6
+            }
+        ]
+    },
+    {
+        "program_name": "SHORT STORY MLM",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 2,
+                "admission_no": 514,
+                "contestant_name": "Salsabeel MH",
+                "class": 7,
+                "team": "Jabalia",
+                "total_result": 3
+            },
+            {
+                "position": 2,
+                "admission_no": 500,
+                "contestant_name": "Absar Salim ",
+                "class": 7,
+                "team": "Ġazzah",
+                "total_result": 3
+            },
+            {
+                "position": 3,
+                "admission_no": 545,
+                "contestant_name": "AHAMMAD SAINUDEEN ",
+                "class": 6,
+                "team": "Ġazzah",
+                "total_result": 1
+            },
+            {
+                "position": 3,
+                "admission_no": 539,
+                "contestant_name": "MUHAMMED AMEEN ",
+                "class": 6,
+                "team": "Rafaḥ",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "ORU NIMISHAM",
+        "section": "THĀNIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 647,
+                "contestant_name": "MUHAMMED AMEEN P ",
+                "class": 4,
+                "team": "Rafaḥ",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 616,
+                "contestant_name": "ASIF SAVAD KS ",
+                "class": 4,
+                "team": "Jabalia",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "admission_no": 573,
+                "contestant_name": "MUHAMMED JUNAID ",
+                "class": 5,
+                "team": "Ġazzah",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "INSTANT CHILDREN’S MAGAZINE MLM",
+        "section": "THĀNIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 657,
+                "contestant_name": "ADIL MUHAMED  and Team",
+                "class": 4,
+                "team": "Rām Allāh",
+                "total_result": 12
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 619,
+                "contestant_name": "MUHAMMAD NASEEF A N  and Team",
+                "class": 4,
+                "team": "Rafaḥ",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 651,
+                "contestant_name": "MUHAMMED NIYAS K  and Team",
+                "class": 4,
+                "team": "Jabalia",
+                "total_result": 6
+            },
+            {
+                "grade": "B",
+                "admission_no": 569,
+                "contestant_name": "ASSAYID MOHAMMED SABITH THANGAL  and Team",
+                "class": 5,
+                "team": "Ġazzah",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "GROUP SONG",
+        "section": "ŪLĀ",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 687,
+                "contestant_name": "FARHAN FAROOK  and Team",
+                "class": 3,
+                "team": "Rām Allāh",
+                "total_result": 12
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 665,
+                "contestant_name": "MUHAMMED ADIL S  and Team",
+                "class": 3,
+                "team": "Jabalia",
+                "total_result": 10
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 674,
+                "contestant_name": "MIDLAJ POOVANCHERI  and Team",
+                "class": 3,
+                "team": "Rafaḥ",
+                "total_result": 6
+            },
+            {
+                "grade": "B",
+                "admission_no": 744,
+                "contestant_name": "MUHAMMED ASIF.T.K  and Team",
+                "class": 2,
+                "team": "Ġazzah",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "GROUP SONG",
+        "section": "BIDĀYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 753,
+                "contestant_name": "MUHAMMED ZAINUDHEEN IRFAN A.A  and Team",
+                "class": 1,
+                "team": "Ġazzah",
+                "total_result": 12
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 776,
+                "contestant_name": "MOHAMMED NAFIH  and Team",
+                "class": 1,
+                "team": "Jabalia",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 759,
+                "contestant_name": "MUHAMMED SWALIH PS  and Team",
+                "class": 1,
+                "team": "Rafaḥ",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "admission_no": 769,
+                "contestant_name": "MUHAMMED RABEEH K  and Team",
+                "class": 1,
+                "team": "Rām Allāh",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "SAMĀʿ",
+        "section": "KULLIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "admission_no": 704,
+                "contestant_name": "MUHAMMED RASHAD PT and Team",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "admission_no": 357,
+                "contestant_name": "Muhammad Junaid K.U and Team",
+                "class": 9,
+                "team": "Rām Allāh",
+                "total_result": 7
+            },
+            {
+                "position": 3,
+                "admission_no": 496,
+                "contestant_name": "Muhammed Rizvan V and Team",
+                "class": 7,
+                "team": "Ġazzah",
+                "total_result": 5
+            },
+            {
+                "position": 3,
+                "admission_no": 410,
+                "contestant_name": "Muhammed Salman C and Team",
+                "class": 10,
+                "team": "Jabalia",
+                "total_result": 5
+            }
+        ]
+    },
+    {
+        "program_name": "QAWWALI URD",
+        "section": "KULLIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 496,
+                "contestant_name": "Muhammed Rizvan V and Team",
+                "class": 7,
+                "team": "Ġazzah",
+                "total_result": 15
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 704,
+                "contestant_name": "MUHAMMED RASHAD PT and Team",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 12
+            },
+            {
+                "position": 3,
+                "grade": "A",
+                "admission_no": 357,
+                "contestant_name": "Muhammad Junaid K.U and Team",
+                "class": 9,
+                "team": "Rām Allāh",
+                "total_result": 10
+            },
+            {
+                "grade": "B",
+                "admission_no": 705,
+                "contestant_name": "BASIM AHAMMED  and Team",
+                "class": 9,
+                "team": "Jabalia",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "DEBATE ENGLISH",
+        "section": "KULLIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 485,
+                "contestant_name": "AFTHAB ABDUL KADER  and Team",
+                "class": 8,
+                "team": "Rām Allāh",
+                "total_result": 13
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 704,
+                "contestant_name": "MUHAMMED RASHAD PT and Team",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 10
+            },
+            {
+                "position": 3,
+                "admission_no": 705,
+                "contestant_name": "BASIM AHAMMED  and Team",
+                "class": 9,
+                "team": "Jabalia",
+                "total_result": 5
+            }
+        ]
+    },
+    {
+        "program_name": "MUNĀẒARAH",
+        "section": "KULLIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 699,
+                "contestant_name": "MUHAMMED LIYAKATH PK and Team",
+                "class": 10,
+                "team": "Ġazzah",
+                "total_result": 13
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 786,
+                "contestant_name": "MUHAMMED AMEEN T and Team",
+                "class": 8,
+                "team": "Jabalia",
+                "total_result": 10
+            },
+            {
+                "position": 3,
+                "admission_no": 416,
+                "contestant_name": "Tariq Anwar K.P and Team",
+                "class": 9,
+                "team": "Rām Allāh",
+                "total_result": 5
+            }
+        ]
+    },
+    {
+        "program_name": "MUSHĀʿARAH",
+        "section": "KULLIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 484,
+                "contestant_name": "Muhammed Fahim A and Team",
+                "class": 8,
+                "team": "Rām Allāh",
+                "total_result": 13
+            },
+            {
+                "position": 2,
+                "admission_no": 454,
+                "contestant_name": "MOHAMMED SUHAIL  and Team",
+                "class": 8,
+                "team": "Rafaḥ",
+                "total_result": 7
+            },
+            {
+                "position": 3,
+                "admission_no": 535,
+                "contestant_name": "MUHAMMED MA-AMOON  and Team",
+                "class": 6,
+                "team": "Ġazzah",
+                "total_result": 5
+            }
+        ]
+    },
+    {
+        "program_name": "QURʾĀN TALENT",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "admission_no": 428,
+                "contestant_name": "Muhammed Imran S",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 5
+            },
+            {
+                "position": 2,
+                "admission_no": 376,
+                "contestant_name": "Muhammad Jalal M.A",
+                "class": 10,
+                "team": "Rām Allāh",
+                "total_result": 3
+            },
+            {
+                "position": 3,
+                "admission_no": 703,
+                "contestant_name": "MUNSHID P",
+                "class": 9,
+                "team": "Ġazzah",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "ʾALFIYYAH CONTEST",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 535,
+                "contestant_name": "MUHAMMED MA-AMOON ",
+                "class": 6,
+                "team": "Ġazzah",
+                "total_result": 8
+            },
+            {
+                "position": 2,
+                "admission_no": 505,
+                "contestant_name": "Munavarsha Kamal ",
+                "class": 7,
+                "team": "Rafaḥ",
+                "total_result": 3
+            },
+            {
+                "position": 3,
+                "admission_no": 568,
+                "contestant_name": "MUHAMMED JALAL E ",
+                "class": 6,
+                "team": "Rafaḥ",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "MULTILINGUAL QUIZ",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 535,
+                "contestant_name": "MUHAMMED MA-AMOON ",
+                "class": 6,
+                "team": "Ġazzah",
+                "total_result": 8
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 494,
+                "contestant_name": "AHMAD FAYAS CA",
+                "class": 7,
+                "team": "Rām Allāh",
+                "total_result": 6
+            }
+        ]
+    },
+    {
+        "program_name": "VARSITY TALENT",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 697,
+                "contestant_name": "HUSNI MUBARAK KT ",
+                "class": 10,
+                "team": "Rām Allāh",
+                "total_result": 8
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 368,
+                "contestant_name": "Althaf C.N",
+                "class": 10,
+                "team": "Jabalia",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 699,
+                "contestant_name": "MUHAMMED LIYAKATH PK",
+                "class": 10,
+                "team": "Ġazzah",
+                "total_result": 4
+            },
+            {
+                "grade": "B",
+                "admission_no": 417,
+                "contestant_name": "Muhammed Fahim ",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "PROUD MUSLIM",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 786,
+                "contestant_name": "MUHAMMED AMEEN T",
+                "class": 8,
+                "team": "Jabalia",
+                "total_result": 10
+            },
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 697,
+                "contestant_name": "HUSNI MUBARAK KT ",
+                "class": 10,
+                "team": "Rām Allāh",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 414,
+                "contestant_name": "Haris Ashraf ",
+                "class": 9,
+                "team": "Ġazzah",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "A",
+                "admission_no": 428,
+                "contestant_name": "Muhammed Imran S",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 6
+            }
+        ]
+    },
+    {
+        "program_name": "ALLAME URDU",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 368,
+                "contestant_name": "Althaf C.N",
+                "class": 10,
+                "team": "Jabalia",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 781,
+                "contestant_name": "MOHAMMED SHANIF P",
+                "class": 8,
+                "team": "Ġazzah",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 705,
+                "contestant_name": "BASIM AHAMMED ",
+                "class": 9,
+                "team": "Jabalia",
+                "total_result": 4
+            },
+            {
+                "grade": "B",
+                "admission_no": 384,
+                "contestant_name": "Muhammed Ansif ",
+                "class": 10,
+                "team": "Rām Allāh",
+                "total_result": 3
+            },
+            {
+                "grade": "B",
+                "admission_no": 706,
+                "contestant_name": "JAFAKASH JAHAN ",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "REVERSE QUIZ",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 417,
+                "contestant_name": "Muhammed Fahim ",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 8
+            },
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 449,
+                "contestant_name": "Muhammed Razik ",
+                "class": 8,
+                "team": "Ġazzah",
+                "total_result": 8
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 414,
+                "contestant_name": "Haris Ashraf ",
+                "class": 9,
+                "team": "Ġazzah",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "admission_no": 447,
+                "contestant_name": "Abrar Salim ",
+                "class": 9,
+                "team": "Rām Allāh",
+                "total_result": 1
+            },
+            {
+                "position": 3,
+                "admission_no": 433,
+                "contestant_name": "Muhammed Safwan K",
+                "class": 8,
+                "team": "Jabalia",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "NEWS WRITING & READING ARB",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 699,
+                "contestant_name": "MUHAMMED LIYAKATH PK",
+                "class": 10,
+                "team": "Ġazzah",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 786,
+                "contestant_name": "MUHAMMED AMEEN T",
+                "class": 8,
+                "team": "Jabalia",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "A",
+                "admission_no": 703,
+                "contestant_name": "MUNSHID P",
+                "class": 9,
+                "team": "Ġazzah",
+                "total_result": 6
+            },
+            {
+                "grade": "B",
+                "admission_no": 416,
+                "contestant_name": "Tariq Anwar K.P",
+                "class": 9,
+                "team": "Rām Allāh",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "MASHUP",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 496,
+                "contestant_name": "Muhammed Rizvan V and Team",
+                "class": 7,
+                "team": "Ġazzah",
+                "total_result": 12
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 530,
+                "contestant_name": "Mohammed Shanil  and Team",
+                "class": 7,
+                "team": "Rafaḥ",
+                "total_result": 10
+            },
+            {
+                "position": 3,
+                "admission_no": 564,
+                "contestant_name": "BISHIR MUHAMMED.P  and Team",
+                "class": 6,
+                "team": "Jabalia",
+                "total_result": 3
+            },
+            {
+                "position": 3,
+                "admission_no": 543,
+                "contestant_name": "SWABAH.C.A  and Team",
+                "class": 6,
+                "team": "Rām Allāh",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "DEBATE URDU",
+        "section": "KULLIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 485,
+                "contestant_name": "AFTHAB ABDUL KADER  and Team",
+                "class": 8,
+                "team": "Rām Allāh",
+                "total_result": 15
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 706,
+                "contestant_name": "JAFAKASH JAHAN  and Team",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 12
+            },
+            {
+                "position": 3,
+                "admission_no": 705,
+                "contestant_name": "BASIM AHAMMED  and Team",
+                "class": 9,
+                "team": "Jabalia",
+                "total_result": 5
+            }
+        ]
+    },
+    {
+        "program_name": "TYPING BILINGUAL",
+        "section": "ŪLĀ",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 671,
+                "contestant_name": "ADIL SHAN MK ",
+                "class": 3,
+                "team": "Jabalia",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 715,
+                "contestant_name": "MUHAMMAD FAHEEM K M ",
+                "class": 2,
+                "team": "Rafaḥ",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "admission_no": 659,
+                "contestant_name": "MAHMOOD P M ",
+                "class": 3,
+                "team": "Ġazzah",
+                "total_result": 1
+            },
+            {
+                "position": 3,
+                "admission_no": 722,
+                "contestant_name": "MUHAMMED SHAMMAS M S ",
+                "class": 2,
+                "team": "Rām Allāh",
+                "total_result": 1
+            },
+            {
+                "position": 3,
+                "admission_no": 731,
+                "contestant_name": "MUHAMMED SWABEEH T S ",
+                "class": 2,
+                "team": "Jabalia",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "INSTANT MAGAZINE ENG",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 499,
+                "contestant_name": "Muhammed Mabrook KS and Team",
+                "class": 6,
+                "team": "Rafaḥ",
+                "total_result": 12
+            },
+            {
+                "position": 2,
+                "admission_no": 496,
+                "contestant_name": "Muhammed Rizvan V and Team",
+                "class": 7,
+                "team": "Ġazzah",
+                "total_result": 5
+            },
+            {
+                "position": 3,
+                "admission_no": 514,
+                "contestant_name": "Salsabeel MH and Team",
+                "class": 7,
+                "team": "Jabalia",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "DIGITAL TABLOID ARB",
+        "section": "ᾹLIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 699,
+                "contestant_name": "MUHAMMED LIYAKATH PK and Team",
+                "class": 10,
+                "team": "Ġazzah",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "admission_no": 704,
+                "contestant_name": "MUHAMMED RASHAD PT and Team",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 5
+            },
+            {
+                "position": 3,
+                "admission_no": 786,
+                "contestant_name": "MUHAMMED AMEEN T and Team",
+                "class": 8,
+                "team": "Jabalia",
+                "total_result": 3
+            },
+            {
+                "position": 3,
+                "admission_no": 382,
+                "contestant_name": "Muhammed Nihal P.H and Team",
+                "class": 10,
+                "team": "Rām Allāh",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "SHORT STORY URD",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": "NILL",
+                "admission_no": "NILL",
+                "contestant_name": "NILL",
+                "class": "NILL",
+                "team": "NILL",
+                "total_result": ""
+            }
+        ]
+    },
+    {
+        "program_name": "SPEECH ARB",
+        "section": "ŪLĀ",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 666,
+                "contestant_name": "MUHAMMED SINAN.P ",
+                "class": 3,
+                "team": "Ġazzah",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 724,
+                "contestant_name": "MUHAMMAD ADHNAN M S ",
+                "class": 2,
+                "team": "Ġazzah",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 681,
+                "contestant_name": "MUHAMMED THAMEEM KONDOTIIKKARAN ",
+                "class": 3,
+                "team": "Jabalia",
+                "total_result": 4
+            },
+            {
+                "grade": "B",
+                "admission_no": 668,
+                "contestant_name": "SHADIN V ",
+                "class": 3,
+                "team": "Rām Allāh",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "ḤIFẒ & QIRĀʾAH",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 535,
+                "contestant_name": "MUHAMMED MA-AMOON ",
+                "class": 6,
+                "team": "Ġazzah",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "admission_no": 523,
+                "contestant_name": "Muhammed Irfan KM",
+                "class": 7,
+                "team": "Rafaḥ",
+                "total_result": 3
+            },
+            {
+                "position": 3,
+                "admission_no": 518,
+                "contestant_name": "Muhsin Mubarak ",
+                "class": 6,
+                "team": "Jabalia",
+                "total_result": 1
+            }
+        ]
+    },
+    {
+        "program_name": "TECH TANGLE",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 503,
+                "contestant_name": "Muhammed Ihsan ",
+                "class": 7,
+                "team": "Rafaḥ",
+                "total_result": 8
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 506,
+                "contestant_name": "Aslam Ayoob ",
+                "class": 7,
+                "team": "Rafaḥ",
+                "total_result": 6
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 537,
+                "contestant_name": "MUHAMMED SINAN K M ",
+                "class": 6,
+                "team": "Ġazzah",
+                "total_result": 4
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 517,
+                "contestant_name": "Jaseem Abdul Azeez KK",
+                "class": 7,
+                "team": "Rām Allāh",
+                "total_result": 4
+            }
+        ]
+    },
+    {
+        "program_name": "INSTANT NEWS PAPER MLM",
+        "section": "THĀNIYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "B",
+                "admission_no": 569,
+                "contestant_name": "ASSAYID MOHAMMED SABITH THANGAL  and Team",
+                "class": 5,
+                "team": "Ġazzah",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "B",
+                "admission_no": 619,
+                "contestant_name": "MUHAMMAD NASEEF A N  and Team",
+                "class": 4,
+                "team": "Rafaḥ",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "admission_no": 605,
+                "contestant_name": "AL SABITH  and Team",
+                "class": 5,
+                "team": "Jabalia",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "ḤADĪTH MUSĀBAQAH",
+        "section": "THĀNAWIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 534,
+                "contestant_name": "JASIL TJ ",
+                "class": 6,
+                "team": "Rafaḥ",
+                "total_result": 10
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 494,
+                "contestant_name": "AHMAD FAYAS CA",
+                "class": 7,
+                "team": "Rām Allāh",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "A",
+                "admission_no": 511,
+                "contestant_name": "Muhammad PS",
+                "class": 7,
+                "team": "Jabalia",
+                "total_result": 6
+            },
+            {
+                "grade": "B",
+                "admission_no": 519,
+                "contestant_name": "Muhammed Jiyad ",
+                "class": 7,
+                "team": "Ġazzah",
+                "total_result": 3
+            },
+            {
+                "grade": "B",
+                "admission_no": 523,
+                "contestant_name": "Muhammed Irfan KM",
+                "class": 7,
+                "team": "Rafaḥ",
+                "total_result": 3
+            }
+        ]
+    },
+    {
+        "program_name": "PODCAST",
+        "section": "KULLIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 705,
+                "contestant_name": "BASIM AHAMMED  and Team",
+                "class": 9,
+                "team": "Jabalia",
+                "total_result": 15
+            },
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 417,
+                "contestant_name": "Muhammed Fahim  and Team",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 15
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 414,
+                "contestant_name": "Haris Ashraf  and Team",
+                "class": 9,
+                "team": "Ġazzah",
+                "total_result": 8
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 697,
+                "contestant_name": "HUSNI MUBARAK KT  and Team",
+                "class": 10,
+                "team": "Rām Allāh",
+                "total_result": 8
+            }
+        ]
+    },
+    {
+        "program_name": "PHOTO ESSAY",
+        "section": "KULLIYYAH",
+        "single": false,
+        "master": false,
+        "results": [
+            {
+                "position": 1,
+                "grade": "A",
+                "admission_no": 382,
+                "contestant_name": "Muhammed Nihal P.H and Team",
+                "class": 10,
+                "team": "Rām Allāh",
+                "total_result": 15
+            },
+            {
+                "position": 2,
+                "grade": "A",
+                "admission_no": 702,
+                "contestant_name": "Mohammed Mubashir P and Team",
+                "class": 10,
+                "team": "Ġazzah",
+                "total_result": 12
+            },
+            {
+                "position": 3,
+                "grade": "B",
+                "admission_no": 426,
+                "contestant_name": "Muhammed Shahid  and Team",
+                "class": 9,
+                "team": "Rafaḥ",
+                "total_result": 8
+            },
+            {
+                "grade": "B",
+                "admission_no": 419,
+                "contestant_name": "Muhammed Fasalul Abidheen  and Team",
+                "class": 9,
+                "team": "Jabalia",
+                "total_result": 3
             }
         ]
     }
