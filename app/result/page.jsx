@@ -1,105 +1,61 @@
-
-
-"use client";
+"use client"
 import { useState } from "react";
-import Filter from "../../components/Filter"; // Import the filter component
-import ScoreBoard from "../../components/ScoreBoard"
-import data from "./resluts.json"
 
+import Leaderboard from "../../components/Leaderboard"
+import Result from "../../components/Result"
 // Sample data
-const mockData = data
 
-
-// Team colors
-const teamColors = {
-  RāmAllāh: "text-indigo-950",
-  Ġazzah: "text-green-500",
-  Rafaḥ: "text-blue-500",
-  Jabalia: "text-red-500", // Additional team colors
-};
 
 const Page = () => {
-  const [expandedProgram, setExpandedProgram] = useState(null);
-  const [filteredPrograms, setFilteredPrograms] = useState(mockData); // Initialize with full data
-
-  // Callback to handle filtered program selection
-  const handleFilterChange = (filtered) => {
-    setFilteredPrograms(filtered); // Update filtered results
-  };
-
-  // Toggle expand/collapse on clicking a program div
-  const handleProgramClick = (program) => {
-    setExpandedProgram((prev) => (prev === program ? null : program)); // Collapse if already expanded
-  };
+  const [activeTab, setActiveTab] = useState('results')  
 
   return (
-    <div className="p-6 bg-slate-300 min-h-screen">
-       <ScoreBoard data={mockData}/> 
-      {/* Filter/Search Section */}
-          <Filter
-      programs={mockData}
-      onFilterChange={handleFilterChange} // Pass callback to get filtered programs
-    />
+    <>
+    <div className="w-full h-[10vh] bg-slate-800 flex items-center justify-between md:justify-around px-5">
+      <img src="/LOGO SITE (1).png" height={75} width={75} />
+      <img src="/sq.png" height={110} width={110} />
+    </div>
 
 
-      {/* Program Divs */}
-      <div className="space-y-4 mt-6 max-w-xl mx-auto">
-        {filteredPrograms.map((program, index) => (
-          <div
-            key={index}
-            onClick={() => handleProgramClick(program)}
-            className="p-4 bg-white rounded-lg cursor-pointer shadow-md transition-shadow duration-500 border border-gray-300"
-            style={{
-              height: expandedProgram === program ? "auto" : "60px", // Expand on click
-              overflow: "hidden", // Hide content if collapsed
-            }}
-            role="button" // Improve accessibility
-            tabIndex={0} // Make it focusable
-            onKeyDown={(e) => { if (e.key === "Enter") handleProgramClick(program); }} // Handle keyboard interactions
-          >
-            <div className="flex gap-3">
-              <h3 className="font-bold text-gray-800">{program.program_name}</h3>
-              <h5 className="text-gray-600">{program.section}</h5>
-            </div>
 
-            {/* Detailed view when expanded */}
-            {expandedProgram === program && (
-              <div className="flex justify-start gap-7 overflow-auto mt-4">
+  
+  
+  
+  <div className="p-6 bg-slate-300 min-h-screen">
+     
+  <div className="space-y-4 sm:flex sm:justify-between items-end mt-6 max-w-3xl mx-auto my-5">
+      <h1 className="font-montserrat font-semibold text-3xl"> Results Dashboard</h1>
 
-                {program.results.map((result, resultIndex) => (
-                  <div
-                    key={resultIndex}
-                    className=" bg-slate-200 rounded-md shadow-md mb-2 px-4 pb-2"
-                  >
-                    {/* Team color div */}
-                    <div
-                      className={`font-bold p-2 rounded-md mt-2 text-center ${teamColors[result.team]}`}
-                    >
-                      {result.team}
-                    </div>
-
-                    {/* Contestant and result details */}
-                    <div className="ml-2">
-                      <p className="text-gray-700 font-semibold whitespace-nowrap">
-                        {result.contestant_name}
-                      </p>
-                      <div className="flex items-center justify-center">
-                        <p className="text-gray-600">Position:</p>
-                        <p className="font-bold text-gray-800">{result.position}</p>
-                      </div>
-                      <div className="flex items-center justify-center">
-                        <p className="text-gray-600">Grade:</p>
-                        <p className="font-bold text-gray-800">{result.grade}</p>
-                      </div>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            )}
-          </div>
-        ))}
+      <div className="flex justify-center gap-3 ">
+        <button
+          className={`px-4 py-2 rounded font-montserrat ${activeTab === 'leaderboard' ? 'bg-slate-900 text-white' : 'bg-slate-400  text-black'}`}
+          onClick={() => setActiveTab('leaderboard')}
+        >
+          Leaderboard
+        </button>
+        <button
+          className={`px-4 py-2 rounded font-montserrat ${activeTab === 'results' ? 'bg-slate-900 text-white' : 'bg-slate-400  text-black'}`}
+          onClick={() => setActiveTab('results')}
+        >
+          Program Results
+        </button>
       </div>
     </div>
+
+      {activeTab === 'leaderboard' ? <Leaderboard /> : <Result />}
+   
+
+
+  </div>
+
+  <div className="h-[30vh] bg-slate-900 p-5">
+        <h4 className="font-montserrat text-white">HANDALA   NAHJ ARTS FEST'24</h4>
+        <div className='mt-3'>
+          <h4 className='font-montserrat font-bold text-white'>Nahjurrashad Islamic College</h4>
+          <h6 className='font-montserrat text-white'>Chamakkala Beach Road Chamakkala, Chenthrapini, Kerala 680687</h6>
+        </div>
+      </div>
+    </>
   );
 };
 

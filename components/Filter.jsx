@@ -20,10 +20,13 @@ function Filter({ programs, onFilterChange }) {
 
   return (
     <div className="flex flex-col items-center">
-      <div className="bg-white shadow-lg rounded-lg p-8 max-w-xl w-full border-1 border-slate-600">
+      <div className="bg-white shadow-lg rounded-lg p-8 max-w-3xl w-full border-1 border-slate-600">
         <div className="flex items-center justify-between">
         <h2 className="text-2xl font-semibold mb-4 text-gray-800">Search Programs</h2>
-        {/* <p className="">{programs.length}</p> */}
+      <div className="pb-2 flex gap-2">
+        <p className="font-montserrat pb-1 text-lg">result published :</p>
+      <p className="font-montserrat font-semibold pb-1 text-lg" >{programs.length} </p>
+        </div> 
         </div>
 
         {/* Search Input */}

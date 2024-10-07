@@ -1,5 +1,3 @@
-import { toFormData } from "axios";
-
 
 const calculateTeamScores = (data) => {
   // Define team names as per the data
@@ -44,8 +42,7 @@ const ScoreBoard = ({data}) => {
 
   return (
     <div className="flex bg-transparent justify-center mb-7">
-      <div className="max-w-xl w-full">
-        <h2 className="text-2xl font-bold text-center mb-6">Scoreboard</h2>
+      <div className="max-w-3xl w-full">
         <div className="overflow-x-auto rounded-lg shadow-lg border-1 border-slate-300">
           <table className="bg-slate-100 w-full">
             <thead className="bg-gray-100">
